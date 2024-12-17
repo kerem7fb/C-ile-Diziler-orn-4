@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\10-M\dizi örnek\dizi örnek\bin\Debug\dizi örnek.exe.config
+C:\Users\user\Desktop\10-M\dizi örnek\dizi örnek\obj\Debug\dizi örnek.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\10-M\dizi örnek\dizi örnek\obj\Debug\dizi_örnek.Form1.resources
+C:\Users\user\Desktop\10-M\dizi örnek\dizi örnek\obj\Debug\dizi_örnek.Properties.Resources.resources
+C:\Users\user\Desktop\10-M\dizi örnek\dizi örnek\obj\Debug\dizi örnek.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\10-M\dizi örnek\dizi örnek\bin\Debug\dizi örnek.exe
+C:\Users\user\Desktop\10-M\dizi örnek\dizi örnek\bin\Debug\dizi örnek.pdb
+C:\Users\user\Desktop\10-M\dizi örnek\dizi örnek\obj\Debug\dizi örnek.exe
+C:\Users\user\Desktop\10-M\dizi örnek\dizi örnek\obj\Debug\dizi örnek.pdb
